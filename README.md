@@ -7,4 +7,7 @@ open gen_ai_gpt.py and input the each API key.</br>
 
 # run
 python gen_ai_gpt.py</br>
-<img href="https://github.com/mac999/gen_ai_gpt/blob/main/image2.png"/>
+</br>
+result</br>
+prompt=cat on moon surface in space, tabby cat face, [your input]</br>
+<img src="https://github.com/mac999/gen_ai_gpt/blob/main/image2.png"/>
