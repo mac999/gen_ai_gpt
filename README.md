@@ -6,7 +6,7 @@ Example.</br>
 prompt=cat on moon surface in space, tabby cat</br>
 <img width="800px" src="https://github.com/mac999/gen_ai_gpt/blob/main/gen_ai.JPG"/>
 
-# prepare
+# how to use
 1. run commands like below in terminal.</br>
 git clone https://github.com/mac999/gen_ai_gpt</br>
 cd gen_ai_gpt</br>
