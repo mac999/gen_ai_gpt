@@ -1,5 +1,7 @@
 # Generative AI with ChatGPT
-gen_ai_gpt</br>
+Gen AI with ChatGPT</br>
+Gen AI with ChatGPT is how how to generate AI from description by using ChatGPT and Dall-E2.</br>
+You can generate movie, image by using ChatGPT, Stable Diffusion like Dall-E2 easily.</br>
 
 # prepare
 1. create API key from OpenAI website</br>
