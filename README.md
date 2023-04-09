@@ -1,10 +1,10 @@
 # Generative AI with ChatGPT
 Gen AI with ChatGPT.</br>
 Gen AI with ChatGPT is how how to generate AI from description by using ChatGPT and Dall-E2.</br>
-You can generate movie, image by using ChatGPT, Stable Diffusion like Dall-E2 easily.</br>
-Example</br>
+You can generate movie, image by using ChatGPT, Stable Diffusion like Dall-E2 easily.</br></br>
+Example.</br>
 prompt=cat on moon surface in space, tabby cat</br>
-<img width="800px" src="https://github.com/mac999/gen_ai_gpt/blob/main/gen_AI.JPG"/>
+<img width="800px" src="https://github.com/mac999/gen_ai_gpt/blob/main/gen_ai.JPG"/>
 
 # prepare
 1. run commands like below in terminal.</br>
