@@ -32,8 +32,6 @@ def gen_ai_prompt(query):
 
 # run
 python gen_ai_gpt.py --query="달의 위를 두발로 걷고 있는 우주복 입은 치즈태비 고양이를 묘사해줘." --style="realistic lighting, ultra-detailed, 8K, photorealism" --output="./image.png"</br>
-result</br>
-prompt=cat on moon surface in space, tabby cat face, [your input]</br>
 <img width="200px" src="https://github.com/mac999/gen_ai_gpt/blob/main/image2.png"/>
 <img width="200px" src="https://github.com/mac999/gen_ai_gpt/blob/main/image1.png"/>
 <img width="200px" src="https://github.com/mac999/gen_ai_gpt/blob/main/image.png"/>
